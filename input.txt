@@ -1,0 +1,14 @@
+int a,d;
+int b;
+int c;
+do
+{
+    a=a-b;
+}while(b<a);
+while((a==7) || (b==8))
+{
+    while(a==1){
+        b=a^b*2/b+c;
+    }
+    a=a/d;
+}

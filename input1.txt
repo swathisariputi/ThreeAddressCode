@@ -1,0 +1,11 @@
+int a;
+int b;
+while(a&&b)
+{
+    do
+    {
+        a=a+1%a;
+    }while(b==0);
+    a=0^-2;
+    a=a+b;
+}
